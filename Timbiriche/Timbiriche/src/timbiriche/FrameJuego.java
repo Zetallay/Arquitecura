@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package timbiriche;
 
 import java.awt.Graphics;
@@ -22,8 +21,6 @@ public class FrameJuego extends javax.swing.JFrame {
      * Creates new form frameJuego
      * @param listaDeJugadores
      */
-    
-    //niaaaa
     public FrameJuego(List<Jugador> listaDeJugadores) {
         initComponents();
         this.setSize(1300, 950);
